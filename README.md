@@ -8,3 +8,4 @@ A Script to display current directory contents, including hidden files (starting
 Script to display current irectory contents with long format, with user and group IDs displayed nmerically and hidden files (starting with.)
 Script is to Move the file betty from /tmp/ to /tmp/my_first_directory.
 Script to delete the file betty
+Script to delet dir my_first_directory in the /tmp directory
