@@ -9,3 +9,4 @@ Script to display current irectory contents with long format, with user and grou
 Script is to Move the file betty from /tmp/ to /tmp/my_first_directory.
 Script to delete the file betty
 Script to delet dir my_first_directory in the /tmp directory
+Script that changes the working directoy to the previous one
